@@ -73,6 +73,7 @@ h1 {
     color: black;
 }
 .attribution {
+    color: white;
     margin-top: 20px;
     font-size: 12px;
 }
@@ -84,7 +85,7 @@ h1 {
 
 .attribution a:hover {
     text-decoration: none;
-    
+    color: hsl(75, 94%, 57%);
 }
 
 /* Responsive Design */
