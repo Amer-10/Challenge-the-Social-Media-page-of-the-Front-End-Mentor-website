@@ -27,7 +27,7 @@ body {
     width: 100%;
     max-width: 400px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-    margin-top: 180px;
+    margin-top: 40px;
 }
 
 .profile-image img {
@@ -74,7 +74,7 @@ h1 {
 }
 .attribution {
     margin-top: 20px;
-    color: #aaa;
+    color: hsl(75, 94%, 57%);
     font-size: 12px;
 }
 
@@ -85,6 +85,7 @@ h1 {
 
 .attribution a:hover {
     text-decoration: none;
+    color: hsl(75, 94%, 57%);
     
 }
 
